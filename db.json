@@ -1,0 +1,16 @@
+{
+  "medicamentos": [
+    {
+      "name": "Aspirina",
+      "id": 1,
+      "cantidad": 1
+    },
+    {
+      "name": "ibuprofeno",
+      "cantidad": "3",
+      "id": 2
+    }
+  ],
+  "recetas": [],
+  "lineasdereceta": []
+}
